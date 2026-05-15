@@ -1,0 +1,7 @@
+{
+  "_schema": {
+    "lyrics": "Array of { title, snippet, kind } — populate locally with licensed lyrics if you want lyric-snippet questions. See notes/lyrics-sources.txt.",
+    "kind": "first_line | chorus | bridge | refrain"
+  },
+  "lyrics": []
+}

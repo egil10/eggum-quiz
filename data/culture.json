@@ -1,0 +1,69 @@
+{
+  "bergen": {
+    "walk_of_fame_year": 2018,
+    "walk_of_fame_location": "Nøstegaten, Bergen sentrum",
+    "associated_venues": [
+      "Madam Felle (Bryggen 43, årlige førjulskonserter siden 2005)",
+      "Bryggen Tracteursted ('Jans hjørne', visekafé fra 1983)",
+      "Grieghallen (70-årsfestkonserten 3.–4. desember 2021)",
+      "Forum Scene (En natt forbi-musikalen, 2022 og 2025)",
+      "USF Verftet",
+      "Askeladden visekafé (debut som visesanger i 1971)"
+    ],
+    "neighborhood": "Laksevåg"
+  },
+  "tv_radio_appearances": [
+    { "show": "Melodi Grand Prix (NRK)", "year": 1988, "context": "Bidraget 'Deilige drøm' i den norske MGP-finalen" },
+    { "show": "Hver gang vi møtes (TV 2)", "year": 2012, "context": "Episoden tilegnet hans katalog" },
+    { "show": "Hver gang vi møtes (TV 2)", "year": 2020, "context": "Jubileumssesong med gjenforent cast" },
+    { "show": "NRK Musikk: Låt for låt – Jan Eggum 70 år", "year": 2021 },
+    { "show": "Rockheim Hall of Fame (NRK1)", "year": 2012, "context": "Innlemmet sammen med DumDum Boys, Terje Rypdal, Jahn Teigen og The Pussycats" }
+  ],
+  "festivals_headlined": [
+    "Festspillene i Bergen",
+    "Bergenfest",
+    "Vise- og lyrikkfestivalen i Haugesund",
+    "Hardingtonar (Norheimsund)",
+    "Sarpsborg-festivalen 1987"
+  ],
+  "influenced": [
+    { "artist": "Sondre Lerche", "note": "Bergens-født. Gitarlæreren hans sa 'du kan spille bossa og Jan Eggum' — inngangsporten til å lære gitar." },
+    { "artist": "Karoline Krüger", "note": "Bergens-artist; spilte Lise i En natt forbi-musikalen (2022/2025)." },
+    { "artist": "Bjarte Hjelmeland", "note": "Bergens-skuespiller; hovedrolle i En natt forbi-musikalen." },
+    { "artist": "Hennika Eggum Huuse", "note": "Yngste datter; vant MGPjr 2020 med 'Kan ikke la deg gå'." }
+  ],
+  "books_documentaries": [
+    { "title": "Så langt har alt gått bra", "type": "memoarer", "year": 2021, "publisher": "Kagge Forlag", "co_author": "Geir Rakvaag" },
+    { "title": "Sanger fra vest", "type": "tekstsamling", "year": 2021, "note": "350 sangtekster" },
+    { "title": "Jan Eggum: Ryktet forteller", "type": "dokumentarfilm", "year": 2012, "director": "Nils J. Nesse" },
+    { "title": "En natt forbi – En Jan Eggum-musikal", "type": "scenemusikal", "year": 2022, "venue": "Forum Scene, Bergen" }
+  ],
+  "quotes": [
+    { "quote": "Eg ekje fra Bergen, eg e fra Laksevåg.", "source": "BT-portrett" },
+    { "quote": "Det viktigste kriteriet for at en sang virker, er at mennesker kjenner seg igjen.", "source": "Utdanningsnytt-intervju" },
+    { "quote": "Jeg skriver aldri om meg selv eller om mine nærmeste, men jeg vet mange tror jeg gjør det.", "source": "Bergensmagasinet" },
+    { "quote": "Bergen er hjemmet mitt. Jeg må være der minst en gang i uka.", "source": "Utdanningsnytt-intervju" },
+    { "quote": "Mitt beste råd til nye artister er å ikke følge nye trender, men forsøke å være seg selv.", "source": "Bergensmagasinet" },
+    { "quote": "Jeg er et godt eksempel på et mobbeobjekt som ikke lot seg mobbe. Folk syntes jeg var rar og kalte meg 'engelskmannen'.", "source": "Så langt har alt gått bra" },
+    { "quote": "Siden 1975 har jeg laget minst en demo i uka.", "source": "Bergensmagasinet" },
+    { "quote": "Jeg er mest fan av meg selv.", "source": "Dagsavisen-portrett, 3. desember 2021" }
+  ],
+  "trivia": [
+    { "q": "Hva het visekafeen Eggum startet på Bryggen i 1983?", "a": "Jans hjørne" },
+    { "q": "Hvilket Bergen-arrangement holder Eggum årlige førjulskonserter på?", "a": "Madam Felle" },
+    { "q": "Hvor i Bergen ligger stjernen hans på Walk of Fame?", "a": "Nøstegaten" },
+    { "q": "Hvilket bidrag hadde Eggum i Melodi Grand Prix 1988?", "a": "Deilige drøm" },
+    { "q": "Hva heter selvbiografien hans fra 2021?", "a": "Så langt har alt gått bra" },
+    { "q": "Hvem er medforfatter på selvbiografien?", "a": "Geir Rakvaag" },
+    { "q": "Hva heter dokumentarfilmen om Eggum fra 2012?", "a": "Ryktet forteller" },
+    { "q": "Hvem regisserte dokumentaren 'Ryktet forteller'?", "a": "Nils J. Nesse" },
+    { "q": "Hvilken Bergen-artist har sagt at Eggum var inngangen til å lære gitar?", "a": "Sondre Lerche" },
+    { "q": "Hva het tekstsamlingen Eggum ga ut i 2021 med 350 sanger?", "a": "Sanger fra vest" },
+    { "q": "Hvor i Bergen holdt Eggum 70-årsfestkonserten i 2021?", "a": "Grieghallen" },
+    { "q": "Hvor hadde 'En natt forbi'-musikalen premiere i 2022?", "a": "Forum Scene" },
+    { "q": "Hvilken visekafé i Bergen sang Eggum på fra 1971?", "a": "Askeladden" },
+    { "q": "Hva heter Eggums 25. studioalbum, utgitt høsten 2024?", "a": "Observatør" },
+    { "q": "Hvilken datter av Eggum vant MGP Junior i 2020?", "a": "Hennika Eggum Huuse" },
+    { "q": "Hvilken kvinnelig artist har Eggum skrevet hit-tekster for, blant annet 'Farmors hus'?", "a": "Wenche Myhre" }
+  ]
+}

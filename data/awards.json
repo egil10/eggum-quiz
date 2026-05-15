@@ -1,0 +1,55 @@
+{
+  "spellemann": [
+    { "year": 1977, "category": "Visesang", "result": "won", "for": "Heksedans" },
+    { "year": 1979, "category": "Visesang", "result": "won", "for": "En sang fra vest" },
+    { "year": 1990, "category": "Årets Spellemann", "result": "won", "for": "Gitarkameratene" },
+    { "year": 1990, "category": "Visesang", "result": "won", "for": "Typisk norsk (Gitarkameratene)" },
+    { "year": 1999, "category": "Visesang", "result": "won", "for": "Deilig" },
+    { "year": 2011, "category": "Spellemannjuryens hederspris", "result": "won", "for": "Hederspris" }
+  ],
+  "rockheim": { "year": 2012, "class_includes": ["DumDum Boys", "The Pussycats", "Terje Rypdal", "Jahn Teigen"] },
+  "walk_of_fame_bergen": { "year": 2018, "date": "22. mai 2018", "category": "Kunst og kultur" },
+  "norsktoppen_number_ones": [
+    { "song": "På'an igjen", "year": 1997 },
+    { "song": "Et kort sekund", "year": 2002 },
+    { "song": "Frøken hjerteknuser", "year": 2007, "note": "duett med Bjørn Eidsvåg" }
+  ],
+  "other_honors": [
+    { "award": "Gammleng-prisen", "category": "vise", "year": 1989 },
+    { "award": "Prøysenprisen", "year": 1997 },
+    { "award": "Edvard-prisen", "category": "populærmusikk", "year": 1998 },
+    { "award": "Bjellesauprisen", "year": 2002 },
+    { "award": "Norsk Artistforbunds ærespris", "year": 2005 },
+    { "award": "Tekstforfatterfondets ærespris", "year": 2005 },
+    { "award": "Gammleng-prisen", "category": "veteran", "year": 2011 },
+    { "award": "Rockheim Hall of Fame", "year": 2012 },
+    { "award": "Solprisen", "year": 2016 },
+    { "award": "Bergen Walk of Fame", "year": 2018 }
+  ],
+  "chart_peaks": [
+    { "album": "Dingli bang", "vg_lista_peak": 2, "year": 1997 }
+  ],
+  "trivia": [
+    { "q": "Hvilket år ble Jan Eggum innlemmet i Rockheim Hall of Fame?", "a": "2012" },
+    { "q": "Hvilket år vant Eggum sin første Spellemannpris?", "a": "1977" },
+    { "q": "Hvilket album fra 1977 ga Eggum hans første Spellemann?", "a": "Heksedans" },
+    { "q": "Hvilket år fikk Eggum sin stjerne på Bergen Walk of Fame?", "a": "2018" },
+    { "q": "Hvilket år vant Gitarkameratene Årets Spellemann?", "a": "1990" },
+    { "q": "Hvilket Gitarkameratene-album vant Spellemann i 1990?", "a": "Typisk norsk" },
+    { "q": "Hvilket år mottok Eggum Spellemannjuryens hederspris?", "a": "2011" },
+    { "q": "Hvilket album fra 1999 ga Eggum Spellemann i visesang-kategorien?", "a": "Deilig" },
+    { "q": "Hvilket år vant Eggum Prøysenprisen?", "a": "1997" },
+    { "q": "Hvilket år vant Eggum Edvard-prisen?", "a": "1998" },
+    { "q": "Hvilket år vant Eggum Bjellesauprisen?", "a": "2002" },
+    { "q": "Hvilket år vant Eggum Solprisen?", "a": "2016" },
+    { "q": "Hvilket år vant Eggum Norsk Artistforbunds ærespris?", "a": "2005" },
+    { "q": "Hvilket Eggum-album toppet på #2 på VG-lista i 1997?", "a": "Dingli bang" },
+    { "q": "Eggum vant Spellemann i 1979 for hvilket album?", "a": "En sang fra vest" },
+    { "q": "Hva het originalen til 'En natt forbi' på engelsk?", "a": "Alone Awake" },
+    { "q": "Hvilket år fikk Eggum sin første Gammleng-pris?", "a": "1989" },
+    { "q": "I hvilken kategori fikk Eggum sin Bergen Walk of Fame-stjerne?", "a": "Kunst og kultur" },
+    { "q": "Hvilket rockeband ble innlemmet i Rockheim Hall of Fame sammen med Eggum i 2012?", "a": "DumDum Boys" },
+    { "q": "Hvilken gitarist ble innlemmet i Rockheim Hall of Fame sammen med Eggum i 2012?", "a": "Terje Rypdal" },
+    { "q": "Hvilken artist ble innlemmet i Rockheim Hall of Fame med Eggum i 2012 (kjent fra Popol Vuh)?", "a": "Jahn Teigen" }
+  ]
+}

@@ -7,11 +7,20 @@ import { fileURLToPath } from "node:url";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = resolve(here, "..");
+function load(p) {
+  return JSON.parse(readFileSync(resolve(root, p), "utf8"));
+}
 const data = {
-  stats: JSON.parse(readFileSync(resolve(root, "data/stats.json"), "utf8")),
-  eggum: JSON.parse(readFileSync(resolve(root, "data/eggum.json"), "utf8")),
-  chords: JSON.parse(readFileSync(resolve(root, "data/chords.json"), "utf8")),
-  images: JSON.parse(readFileSync(resolve(root, "data/images.json"), "utf8")),
+  stats: load("data/stats.json"),
+  eggum: load("data/eggum.json"),
+  songs: load("data/songs.json"),
+  chords: load("data/chords.json"),
+  awards: load("data/awards.json"),
+  personal: load("data/personal.json"),
+  collabs: load("data/collabs.json"),
+  culture: load("data/culture.json"),
+  images: load("data/images.json"),
+  lyrics: load("data/lyrics.json"),
 };
 
 // Load app.js as text, evaluate it in a dummy global with stubs.
@@ -32,18 +41,36 @@ ${appSrc.replace(/^\(async function boot\(\)[\s\S]*$/m, "")}
 return {
   qStatsMostPlayed, qStatsLeastPlayed, qStatsFirstYear, qStatsPlayRange,
   qStatsTopOverall, qStatsTotalHours, qStatsUniqueSongs,
-  qTrivia, qAlbumOfSong, qAlbumYear, qChordKey, qChordIntro, qPhotoEvent,
+  qAlbumOfSong, qAlbumYear,
+  qSongTheme, qSongYear,
+  qChordIntro, qChordChorus, qChordKey,
+  qTrivia, qAwardTrivia, qCollabTrivia,
+  qDuetPartner, qCoverArtist,
+  qSpellemannFor, qOtherAward,
+  qPhotoCity, qPhotoYear,
+  qLyric,
   nextQuestion,
 };
 `;
 const fn = new Function(wrapped);
 const gens = fn();
 
+function shapeOf(s) {
+  if (!s) return "empty";
+  if (s.length > 50) return "long";
+  if (/^\d{4}$/.test(s)) return "year";
+  if (/^\d+$/.test(s)) return "number";
+  if (/^\d+[–-]\d+\s+\w+/.test(s)) return "range";   // "1–10 avspillinger"
+  if (/^\d+\s*t$/.test(s)) return "hours";            // "526 t"
+  if (/^(ja|nei)$/i.test(s)) return "yesno";
+  return "other";
+}
+
 const names = Object.keys(gens).filter((k) => k.startsWith("q"));
 let pass = 0, fail = 0;
 for (const name of names) {
-  let ok = 0, nulls = 0, bad = 0;
-  for (let i = 0; i < 50; i++) {
+  let ok = 0, nulls = 0, bad = 0, mixed = 0;
+  for (let i = 0; i < 60; i++) {
     const q = gens[name](data);
     if (q === null) { nulls += 1; continue; }
     if (!q.q || !Array.isArray(q.options) || q.options.length !== 4) {
@@ -51,11 +78,13 @@ for (const name of names) {
     }
     const correctCount = q.options.filter((o) => o.correct).length;
     if (correctCount !== 1) { bad += 1; continue; }
+    const shapes = new Set(q.options.map((o) => shapeOf(o.text)));
+    if (shapes.size > 1) { mixed += 1; continue; }
     ok += 1;
   }
-  const status = bad > 0 ? "FAIL" : ok > 0 ? "ok" : "skip";
-  console.log(`${status.padEnd(4)} ${name.padEnd(22)} ok=${ok} null=${nulls} bad=${bad}`);
-  if (bad > 0) fail += 1; else pass += 1;
+  const status = bad + mixed > 0 ? "FAIL" : ok > 0 ? "ok" : "skip";
+  console.log(`${status.padEnd(4)} ${name.padEnd(22)} ok=${ok} null=${nulls} bad=${bad} mixed=${mixed}`);
+  if (bad + mixed > 0) fail += 1; else pass += 1;
 }
 
 // Build full queue

@@ -1,0 +1,32 @@
+Lyric sources for Jan Eggum (saved as reference; not scraped into the repo).
+
+These are third-party lyric aggregators; the underlying lyrics are copyrighted
+to Jan Eggum / publishers (TONO administers Norwegian songwriter rights).
+Redistributing snippets in the quiz dataset would need a license — Musixmatch
+and LyricFind both license lyrics commercially. Direct permission from Grappa
+Musikkforlag is the cleanest path for a small fan-quiz.
+
+Source pages:
+- https://genius.com/artists/Jan-eggum
+- https://www.lyrics.az/jan-eggum/allsongs.html
+- https://lyrics.network/en/artist/Jan_Eggum
+- https://www.lyricsfreak.com/j/jan+eggum/
+- https://www.allthelyrics.com/lyrics/jan_eggum
+- https://www.musixmatch.com/artist/Jan-Eggum
+- https://beelyrics.com/e/eggum-jan
+
+When ready to add lyric questions, populate data/lyrics.json with entries
+shaped like:
+
+{
+  "lyrics": [
+    {
+      "title": "Heksedans",
+      "snippet": "...one short distinctive line, ideally 5-12 words...",
+      "kind": "first_line"   // or "chorus" / "bridge"
+    }
+  ]
+}
+
+The qLyric generator in app.js will activate automatically once the array
+contains entries.

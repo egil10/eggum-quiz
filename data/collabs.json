@@ -1,0 +1,59 @@
+{
+  "gitarkameratene": {
+    "members": ["Jan Eggum", "Halvdan Sivertsen", "Lillebjørn Nilsen", "Øystein Sunde"],
+    "formation_year": 1987,
+    "disbanded": "Februar 2024, etter Lillebjørn Nilsens død (27. januar 2024)",
+    "motto": "En gang gitarkamerat – alltid gitarkamerat!",
+    "albums": [
+      { "title": "Gitarkameratene", "year": 1989, "note": "Debutalbum med medleyer av medlemmenes signaturlåter" },
+      { "title": "Typisk norsk", "year": 1990, "note": "Vant Spellemannprisen 1990 i visesang-kategorien og Årets gruppe. Inneholder 'Barn av regnbuen'." },
+      { "title": "Kanon! – det beste fra Gitarkameratene Live!", "year": 2010, "note": "Dobbel-livealbum fra Grieghallen 1990." }
+    ]
+  },
+  "duets": [
+    { "song": "Frk Hjerteknuser", "partner": "Bjørn Eidsvåg", "album": "Hjerteknuser", "year": 2007 },
+    { "song": "En liten klem", "partner": "Silje Nergaard", "album": "Silje's Christmas", "year": 2015 },
+    { "song": "Tilfeldigvis", "partner": "Karin Park", "year": 2007 },
+    { "song": "Opp i Otta", "partner": "Vamp", "album": "En annen sol", "year": 2000 },
+    { "song": "Trist og fint", "partner": "Kaia Huuse", "year": 2004 },
+    { "song": "Kjære halvbror", "partner": "Razmara og Antonio", "year": 2015 }
+  ],
+  "covers_of_eggum": [
+    { "song": "En natt forbi", "covered_by": "Elvira Nikolaisen" },
+    { "song": "En natt forbi", "covered_by": "Elisabeth Andreassen" },
+    { "song": "Heksedans", "covered_by": "Marion Ravn" },
+    { "song": "Heksedans", "covered_by": "Øystein Dolmen" },
+    { "song": "Heksedans", "covered_by": "Kjersti Elvik" },
+    { "song": "Mor, jeg vil tilbake", "covered_by": "Didrik Solli-Tangen" },
+    { "song": "Sangfugl", "covered_by": "Sigvart Dagsland" },
+    { "song": "Sangfugl", "covered_by": "Karoline Krüger" }
+  ],
+  "songs_eggum_wrote_for_others": [
+    { "song": "Farmors hus", "for": "Wenche Myhre", "year": 1976, "note": "Tekst av Eggum, musikk av Arne Schulze" },
+    { "song": "Vi lever", "for": "Wenche Myhre", "year": 1982, "note": "Norsk tekst av Eggum" }
+  ],
+  "theatre_film_tv": [
+    { "title": "Antons villfaring", "year": 2002, "venue": "Det Norske Teatret", "note": "Skrevet sammen med Erlend Loe og Marit Moum Aune" },
+    { "title": "Ta meg med!", "year": 2014, "note": "Romantisk film-musikal basert på sanger av Eggum og Halvdan Sivertsen" },
+    { "title": "Regnbuebyen", "year": 1985, "note": "NRK barne-TV; Indigo-sangen herfra" },
+    { "title": "En natt forbi", "year": 2022, "venue": "Forum Scene, Bergen", "note": "Scenemusikal basert på Eggums sanger" }
+  ],
+  "trivia": [
+    { "q": "Hvem av disse er medlem av Gitarkameratene sammen med Eggum, Halvdan Sivertsen og Øystein Sunde?", "a": "Lillebjørn Nilsen" },
+    { "q": "Hvilket år ble Gitarkameratene stiftet?", "a": "1987" },
+    { "q": "Hvilket Gitarkameratene-album vant Spellemann i 1990?", "a": "Typisk norsk" },
+    { "q": "Hvilken single fra 1990 ga Gitarkameratene?", "a": "Barn av regnbuen" },
+    { "q": "Hvorfor ble Gitarkameratene oppløst i 2024?", "a": "Etter Lillebjørn Nilsens død" },
+    { "q": "Hvor ble live-albumet 'Kanon!' tatt opp?", "a": "Grieghallen i Bergen" },
+    { "q": "Hvem dueterer Eggum med på 'Frk Hjerteknuser'?", "a": "Bjørn Eidsvåg" },
+    { "q": "Hvem dueterer Eggum med på julesangen 'En liten klem' (2015)?", "a": "Silje Nergaard" },
+    { "q": "På hvilket Vamp-album sang Eggum med på 'Opp i Otta'?", "a": "En annen sol" },
+    { "q": "Hvem coveret 'Mor, jeg vil tilbake' i Hver gang vi møtes?", "a": "Didrik Solli-Tangen" },
+    { "q": "Hvilket bergensband sto for backingen på 'Heksedans' (1977)?", "a": "Saft (Ring på scenen)" },
+    { "q": "Hvem produserte 'Heksedans' (1977)?", "a": "Trygve Thue" },
+    { "q": "For hvem skrev Eggum 'Farmors hus' i 1976?", "a": "Wenche Myhre" },
+    { "q": "Hvor hadde 'Antons villfaring' premiere i 2002?", "a": "Det Norske Teatret" },
+    { "q": "Hvem var medforfatter av musikalen 'Antons villfaring'?", "a": "Erlend Loe" },
+    { "q": "Hvilken NRK barne-TV-serie fra 1985 er 'Indigo, ta meg med' fra?", "a": "Regnbuebyen" }
+  ]
+}
