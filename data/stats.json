@@ -1,0 +1,2498 @@
+{
+  "totals": {
+    "songs": 311,
+    "plays": 13656,
+    "minutes": 31531,
+    "hours": 526
+  },
+  "songs": [
+    {
+      "title": "De Skulle Begrave En Konge Stor",
+      "artist": "Jan Eggum",
+      "hrs": 8,
+      "minutes": 481.3,
+      "plays": 227,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "En Natt Forbi",
+      "artist": "Jan Eggum",
+      "hrs": 6,
+      "minutes": 353.2,
+      "plays": 198,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Alarmen Går",
+      "artist": "Jan Eggum",
+      "hrs": 5,
+      "minutes": 293.5,
+      "plays": 186,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Mor, jeg vil tilbake",
+      "artist": "Jan Eggum",
+      "hrs": 8,
+      "minutes": 423.8,
+      "plays": 177,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Toya",
+      "artist": "Jan Eggum",
+      "hrs": 6,
+      "minutes": 375.1,
+      "plays": 172,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Mang Slags Kjærlighet",
+      "artist": "Jan Eggum",
+      "hrs": 6,
+      "minutes": 370.7,
+      "plays": 163,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Unnagjort",
+      "artist": "Jan Eggum",
+      "hrs": 7,
+      "minutes": 442.2,
+      "plays": 158,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Ta Meg Med",
+      "artist": "Jan Eggum",
+      "hrs": 7,
+      "minutes": 376,
+      "plays": 131,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Kor E Alle Helter Hen",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 227.3,
+      "plays": 129,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Så mange kvinner",
+      "artist": "Jan Eggum",
+      "hrs": 5,
+      "minutes": 308.1,
+      "plays": 116,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Smuler Fra De Rikes Bord",
+      "artist": "Jan Eggum",
+      "hrs": 6,
+      "minutes": 375,
+      "plays": 107,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Per Og Lise",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 212.4,
+      "plays": 104,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Befri Meg",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 216.3,
+      "plays": 102,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Du kjenner ikkje meg",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 241.4,
+      "plays": 97,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Kjeresten Te Wenche",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 244.3,
+      "plays": 95,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Lillebror Per",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 199,
+      "plays": 95,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Litt Lenger",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 206.5,
+      "plays": 95,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Hold ut, hold på",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 143.2,
+      "plays": 94,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Kem Har Betalt Det?",
+      "artist": "Jan Eggum",
+      "hrs": 5,
+      "minutes": 235.3,
+      "plays": 93,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "På'an igjen",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 258.9,
+      "plays": 93,
+      "firstPlayed": 2015
+    },
+    {
+      "title": "Jeg Lover Deg",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 286,
+      "plays": 92,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Stilig",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 203.5,
+      "plays": 92,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Telefon",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 196.5,
+      "plays": 90,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Glad i",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 126.6,
+      "plays": 89,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Heksedans",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 221.4,
+      "plays": 89,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Nøkken ta Meg Hvis Jeg Blir Forelsket",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 185.1,
+      "plays": 86,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Kjære Halvbror",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 178.5,
+      "plays": 85,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Små Damer",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 171.2,
+      "plays": 84,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Sang Til Frida",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 139.1,
+      "plays": 83,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Utenfor",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 187.8,
+      "plays": 83,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Kort Opphold",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 258,
+      "plays": 82,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Kjærlighet som kommer",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 216.5,
+      "plays": 81,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "En Liten Landsby",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 226,
+      "plays": 79,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Nesten Ikkje Tilstede",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 211.5,
+      "plays": 79,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Den rette",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 146.3,
+      "plays": 76,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Myrsnipa",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 121.7,
+      "plays": 75,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Karina",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 174.8,
+      "plays": 74,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Grinebiter",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 128.7,
+      "plays": 70,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Tre E En for Mye",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 122.2,
+      "plays": 70,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Et Kort Sekund",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 163.5,
+      "plays": 69,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Portrett I Januar",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 144.7,
+      "plays": 69,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Ambivalencia",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 169.3,
+      "plays": 68,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "En annen",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 184.9,
+      "plays": 68,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Johan",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 145.1,
+      "plays": 68,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Eg ve te Bergen",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 99.2,
+      "plays": 67,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Mai Du Milde",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 124.2,
+      "plays": 66,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Når En Hedning Feirer Jul",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 130.6,
+      "plays": 66,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "En Sang Fra Vest",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 197,
+      "plays": 63,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "President",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 96.9,
+      "plays": 63,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Ryktet forteller",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 157.5,
+      "plays": 63,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Bare Nerver",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 120.9,
+      "plays": 61,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Det er som du tar det",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 122.2,
+      "plays": 60,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Ønsk meg godt",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 85.8,
+      "plays": 60,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Å for En Morgen",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 107.9,
+      "plays": 60,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Sånn Kan Det Gå",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 129.7,
+      "plays": 59,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "E det bare vinen",
+      "artist": "Jan Eggum",
+      "hrs": 4,
+      "minutes": 229.4,
+      "plays": 58,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Din Sang - Min Vise",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 132.9,
+      "plays": 57,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Laksevåg",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 126.8,
+      "plays": 57,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Takk Som Byr",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 147.5,
+      "plays": 57,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Alt, akkurat nå",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 116.2,
+      "plays": 56,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Jomfru",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 131.3,
+      "plays": 56,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Besøk",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 124.8,
+      "plays": 55,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Frk Hjerteknuser",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 126.2,
+      "plays": 55,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Det Er Så Lett",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 131.4,
+      "plays": 54,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Feil moral",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 128.2,
+      "plays": 54,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Fortjent",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 83.3,
+      "plays": 54,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Begge Deler Finns",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 140.8,
+      "plays": 53,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Hemmelig",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 107.7,
+      "plays": 53,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Hon Elsker Han",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 175.6,
+      "plays": 53,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Mellom Borger Og Bohem",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 138.6,
+      "plays": 53,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "På Vei",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 143.3,
+      "plays": 53,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Tre er en for mye",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 104.8,
+      "plays": 53,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Et liv på vent",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 81.5,
+      "plays": 52,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Svik",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 136.3,
+      "plays": 52,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Få",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 135.2,
+      "plays": 51,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "På Tv",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 147.5,
+      "plays": 51,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "En del av deg",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 92.6,
+      "plays": 50,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Frelse Verden",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 162.3,
+      "plays": 50,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Håkon Den Gode",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 100.9,
+      "plays": 50,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Medalje",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 144.4,
+      "plays": 50,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Så Langt Har Alt Gått Bra",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 134.2,
+      "plays": 50,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Deilig",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 118.8,
+      "plays": 49,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Hvor Lydig Kan Man Bli",
+      "artist": "Jan Eggum",
+      "hrs": 3,
+      "minutes": 177.1,
+      "plays": 49,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Blikket",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 92,
+      "plays": 48,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "For første gang",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 77.4,
+      "plays": 48,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Du Blir Aldri Ferdig Med Å Se På Jentene",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 146,
+      "plays": 47,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Sigurd",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 130.9,
+      "plays": 47,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Skål for en fiende",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 110.3,
+      "plays": 47,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Vi vil jo det",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 115.4,
+      "plays": 47,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Alt på deg",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 84.7,
+      "plays": 46,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Damen min",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 83.2,
+      "plays": 46,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Noen",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 91.9,
+      "plays": 46,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Rør Meg",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 104,
+      "plays": 46,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Sommerdag",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 63.4,
+      "plays": 46,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Sommeren Nytes Best Om Vinteren",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 92.8,
+      "plays": 46,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Bak en vegg",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 119.2,
+      "plays": 45,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Den Interessante",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 126.3,
+      "plays": 45,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Geni",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 101.9,
+      "plays": 45,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Gå vekk fra han",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 116.5,
+      "plays": 45,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Kvinne",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 142.2,
+      "plays": 45,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Når Du Er Langt Herfra",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 108.6,
+      "plays": 45,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Pose Og Sekk",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 106.7,
+      "plays": 45,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Tyven Skal Du Hete",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 137,
+      "plays": 45,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Aldri Røre",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 95.7,
+      "plays": 44,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Spor",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 124.5,
+      "plays": 44,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Då Ska Eg Komme",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 120.2,
+      "plays": 43,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Eg vil se Gud",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 137.4,
+      "plays": 43,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Ingen Løfter",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 104.7,
+      "plays": 43,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Lik I Lasten",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 97.4,
+      "plays": 43,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Min Pappa Maler Bilder",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 136,
+      "plays": 43,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Normalt e best",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 88.8,
+      "plays": 43,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Berit Og Bjørn",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 97.4,
+      "plays": 42,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Kjære Vår - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 66.3,
+      "plays": 42,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Kjærlighet Og Ærlighet",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 128.2,
+      "plays": 42,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Vi Har En Drøm",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 101,
+      "plays": 42,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Der kan eg se",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 81.9,
+      "plays": 41,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Hjelpeløs",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 59.5,
+      "plays": 41,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "I regn og sol",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 108.6,
+      "plays": 41,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Kompiser",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 83.8,
+      "plays": 41,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Nesten Forelsket",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 124.5,
+      "plays": 41,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Stjerne",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 103.1,
+      "plays": 41,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Amerika",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 61.3,
+      "plays": 40,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Døden Er En Dårlig Deal",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 113.9,
+      "plays": 40,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Helt inn",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 77.1,
+      "plays": 40,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "En Ekte Loner",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 78.7,
+      "plays": 39,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Gullars - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 92.2,
+      "plays": 39,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Jeg Må Ha Luft",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 78.6,
+      "plays": 39,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Jeg Vet Du Vet",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 148.4,
+      "plays": 39,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Noen Vil Ha Deg",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 88.5,
+      "plays": 39,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Som Eg ´e",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 126.6,
+      "plays": 39,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Spenningen er borte",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 105.5,
+      "plays": 39,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Vant Til Å Lyge",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 106.5,
+      "plays": 39,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Alt Jeg Ikke Har",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 99.8,
+      "plays": 38,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Dårlig Tid",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 123.7,
+      "plays": 38,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Endelig",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 89.1,
+      "plays": 38,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Hils Generalen",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 92.9,
+      "plays": 38,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Reprise",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 89,
+      "plays": 38,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Satans Sang",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 103.9,
+      "plays": 38,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Agnes",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 107.1,
+      "plays": 37,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Eg E God Nok",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 105.8,
+      "plays": 37,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Harehopp",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 52.6,
+      "plays": 37,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Lyst, Men Ikkje Lov",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 54.8,
+      "plays": 37,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Nå",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 69.4,
+      "plays": 37,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Velkommen Til Maskinen",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 87.2,
+      "plays": 37,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Å, Som De Lo",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 67.7,
+      "plays": 37,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Der inne",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 78.3,
+      "plays": 36,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Eg Må Dra",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 117.7,
+      "plays": 36,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Fordi Du Er Sann",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 96.8,
+      "plays": 36,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Hvem er han?",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 89.6,
+      "plays": 36,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Jeg Må Ha Det",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 114.3,
+      "plays": 36,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Kvinnebarn",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 100.1,
+      "plays": 36,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Min Mor Var Hjemme",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 117.3,
+      "plays": 36,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Nøye Seg Med Det",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 111.5,
+      "plays": 36,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Underveis",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 68.6,
+      "plays": 36,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Vi Vil Helst Ikkje Vite Det",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 97.6,
+      "plays": 36,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Alt Hon Ville",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 104.1,
+      "plays": 35,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "De Andre",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 90.3,
+      "plays": 35,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Du Gamle Gitar",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 50.6,
+      "plays": 35,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "En Stund",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 88.9,
+      "plays": 35,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Eneboeren",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 65.3,
+      "plays": 35,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Feigt Igjen",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 56.7,
+      "plays": 35,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Hus Forbi",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 98.9,
+      "plays": 35,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "I dette landet",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 68.4,
+      "plays": 35,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Livet, Steinar",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 74.8,
+      "plays": 35,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Mammas Stolthet",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 65.5,
+      "plays": 35,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Sangfugl",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 71.1,
+      "plays": 35,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Svart Kartotek",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 63.3,
+      "plays": 35,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Trubadur",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 83.2,
+      "plays": 35,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Aleine",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 65.8,
+      "plays": 34,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Bonden Og Berget",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 78.1,
+      "plays": 34,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Det Vil Aldri Skje",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 88,
+      "plays": 34,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Johnny",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 56.3,
+      "plays": 34,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Ka Ska Vi Tro På",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 97.8,
+      "plays": 34,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Laffen",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 68.2,
+      "plays": 34,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Lever Lever Lever",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 79.7,
+      "plays": 34,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Magen Og Hatten",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 79.8,
+      "plays": 34,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Min",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 85,
+      "plays": 34,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Neste Gang",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 80.1,
+      "plays": 34,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "På Kafé",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 51.9,
+      "plays": 34,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Åh Alder",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 110.6,
+      "plays": 34,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Av Og Til",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 61.6,
+      "plays": 33,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Brautende Breia",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 55.8,
+      "plays": 33,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Du Lille Bastian",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 88.5,
+      "plays": 33,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "En Plass I Solen",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 55.6,
+      "plays": 33,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Hva Hadde Du Tenkt",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 135.4,
+      "plays": 33,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "I Slekt",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 55.1,
+      "plays": 33,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Kald Som Is",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 67.1,
+      "plays": 33,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Nesten den samme",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 85.1,
+      "plays": 33,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Nøkken ta Meg",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 60.8,
+      "plays": 33,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Nå Kommer De",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 54.9,
+      "plays": 33,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Virtuelle Venner",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 38.3,
+      "plays": 33,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Vrient Å Finne En Venn",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 77.7,
+      "plays": 33,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Blå Bananer",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 65.4,
+      "plays": 32,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "En Søkers Sang",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 60,
+      "plays": 32,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Ensom Ulv",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 121,
+      "plays": 32,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Folk Forsøker",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 81.1,
+      "plays": 32,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Grå Mus",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 70.5,
+      "plays": 32,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Historien Om De",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 84.1,
+      "plays": 32,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Hjemløs",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 103.9,
+      "plays": 32,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Lev Sjøl",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 39.9,
+      "plays": 32,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Mor Tid",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 61.4,
+      "plays": 32,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Også Et Liv",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 112.6,
+      "plays": 32,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Tilfeldigvis",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 96.1,
+      "plays": 32,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Tommy",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 89.1,
+      "plays": 32,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Uavgjort",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 62,
+      "plays": 32,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Ugress I Ditt Bed",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 54.3,
+      "plays": 32,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Alle Gjør Det",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 48.8,
+      "plays": 31,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Damen I Hvitt",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 56.4,
+      "plays": 31,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Dingli bang",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 78.4,
+      "plays": 31,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Falt Imellom Stolene Igjen",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 66.1,
+      "plays": 31,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Helt Normalt",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 65.8,
+      "plays": 31,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Hva Så",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 64.6,
+      "plays": 31,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Bit Av Ditt Hjerte",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 85.7,
+      "plays": 30,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Du skinner helt av deg sjøl",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 81,
+      "plays": 30,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Hva Vil Du I Verden?",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 49.7,
+      "plays": 30,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Lise",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 80.4,
+      "plays": 30,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Moden Mann",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 86.6,
+      "plays": 30,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Tante Gry E Blitt Ung Igjen",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 70.9,
+      "plays": 30,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "Ti år",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 82.2,
+      "plays": 30,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Til Topps",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 82.3,
+      "plays": 30,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Tror Du",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 54.3,
+      "plays": 30,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Den Beste",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 48.9,
+      "plays": 29,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "En Sånn En",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 71,
+      "plays": 29,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Gjort Noe Med Det",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 68.2,
+      "plays": 29,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Gå Forbi",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 50.9,
+      "plays": 29,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Når Pappa Kommer Hjem",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 77,
+      "plays": 29,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Porno-Vise",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 49.8,
+      "plays": 29,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Uten Røtter",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 73.1,
+      "plays": 29,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Bare Vi Blir Bedre Kjent",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 135,
+      "plays": 28,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "En Dag",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 84.2,
+      "plays": 28,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Et Fint Bur",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 52.3,
+      "plays": 28,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "For Døve Ører",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 62.8,
+      "plays": 28,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Gudesønn",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 72.5,
+      "plays": 28,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Hørt Det Før",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 79.8,
+      "plays": 28,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Indigo, Ta Meg Med - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 28.7,
+      "plays": 28,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Null Respekt for Penger",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 90.2,
+      "plays": 28,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Vi Gir Oss Aldri",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 70.8,
+      "plays": 28,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Eg Vil Ikkje Vente",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 56.8,
+      "plays": 27,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Fake Your Beauty",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 24.1,
+      "plays": 27,
+      "firstPlayed": 2023
+    },
+    {
+      "title": "Filmen Blir Bedre",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 57.2,
+      "plays": 27,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Føle",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 63,
+      "plays": 27,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Hallo",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 82.8,
+      "plays": 27,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Hon Snakker Til Meg",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 42.6,
+      "plays": 27,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "I alle år",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 49.3,
+      "plays": 27,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "I Live",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 74.9,
+      "plays": 27,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Nordaførr vårvise",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 43.5,
+      "plays": 27,
+      "firstPlayed": 2023
+    },
+    {
+      "title": "Se Og Se",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 71.1,
+      "plays": 27,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Berømt",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 86.8,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Då Skal Eg Komme",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 58.9,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "En Helt NY Dag",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 75,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Fargene",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 66.5,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Hagens Hotell",
+      "artist": "Jan Eggum",
+      "hrs": 2,
+      "minutes": 97.7,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Klister Kafe",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 66.3,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Kompet Går",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 49.7,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Leke Mor Og Far",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 47.9,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Masken",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 81.7,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Observatør",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 62.9,
+      "plays": 26,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Storebror",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 66.8,
+      "plays": 26,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Baby I Love You",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 67.3,
+      "plays": 25,
+      "firstPlayed": 2019
+    },
+    {
+      "title": "En Pokkers Kar",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 48.1,
+      "plays": 25,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Hold Ut",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 48.6,
+      "plays": 25,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Hvis Du Vil Ha Meg",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 44.7,
+      "plays": 25,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Redd - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 29.8,
+      "plays": 25,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Vest For Voss",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 56,
+      "plays": 25,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Det føles bra",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 59.4,
+      "plays": 24,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Ferieplaner - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 26.7,
+      "plays": 24,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Forført",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 55.3,
+      "plays": 24,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Gull I Din Sang",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 58,
+      "plays": 24,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Den Første",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 56,
+      "plays": 23,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Det var aldri sånn før",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 50.7,
+      "plays": 23,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Hvis Jeg Turde Fly - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 18.5,
+      "plays": 23,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Velge Våpen",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 57,
+      "plays": 23,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Høyt På Strå",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 52,
+      "plays": 22,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Ikkje ledig",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 35.1,
+      "plays": 22,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Aller siste akt",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 47.1,
+      "plays": 21,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Dø Alene",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 42.6,
+      "plays": 21,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Lille, Stille Steinar",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 35.5,
+      "plays": 21,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "På Karneval - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 31.6,
+      "plays": 21,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Takk For Idag - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 6.5,
+      "plays": 21,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Naturen Synger",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 40.9,
+      "plays": 20,
+      "firstPlayed": 2021
+    },
+    {
+      "title": "Tomorrow",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 40.8,
+      "plays": 20,
+      "firstPlayed": 2023
+    },
+    {
+      "title": "Fangenskap",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 67.8,
+      "plays": 19,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Ka skal eg bli til",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 26.7,
+      "plays": 19,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Kjensla",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 33.5,
+      "plays": 19,
+      "firstPlayed": 2023
+    },
+    {
+      "title": "She Loves Me",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 34.8,
+      "plays": 19,
+      "firstPlayed": 2023
+    },
+    {
+      "title": "De eier alt",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 28.8,
+      "plays": 18,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Sigøynerblod",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 36.7,
+      "plays": 18,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Utenpå Og Inni (2023 Remastered)",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 19.2,
+      "plays": 18,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Plass I Sola",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 31.1,
+      "plays": 17,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Avskjedstale Til Mor",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 36,
+      "plays": 16,
+      "firstPlayed": 2023
+    },
+    {
+      "title": "Eit Kort Sekund",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 42.3,
+      "plays": 14,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Trøstevise - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 16.8,
+      "plays": 14,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Spilledåsen - 2023 Remastered",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 7.5,
+      "plays": 13,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "Ei",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 23.2,
+      "plays": 12,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Eggum",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 30.6,
+      "plays": 11,
+      "firstPlayed": 2024
+    },
+    {
+      "title": "På 'an igjen",
+      "artist": "Jan Eggum",
+      "hrs": 1,
+      "minutes": 40.2,
+      "plays": 11,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Bli bra igjen",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 17.5,
+      "plays": 9,
+      "firstPlayed": 2020
+    },
+    {
+      "title": "Ferie Jul",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 15.7,
+      "plays": 8,
+      "firstPlayed": 2023
+    },
+    {
+      "title": "Gøril",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 11.5,
+      "plays": 6,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "Kor e alle helter hen / Where Did All The Heroes Go",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 8.3,
+      "plays": 4,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "En salme fra fordømte",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 0.4,
+      "plays": 3,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "En salme fra fordømte 2",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 0.8,
+      "plays": 3,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "Innbrudd hos Gud",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 9.1,
+      "plays": 3,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "Slave",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 3.2,
+      "plays": 3,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "Solen Skinner",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 11.9,
+      "plays": 3,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "En Liten Klem (feat. Jan Eggum)",
+      "artist": "Silje Nergaard",
+      "hrs": 0,
+      "minutes": 2.8,
+      "plays": 2,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Heksedans / The Pagan Dance",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 0.4,
+      "plays": 2,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "Lillebjørns franske vals",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 0.6,
+      "plays": 2,
+      "firstPlayed": 2022
+    },
+    {
+      "title": "Samba med hele meg",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 3.7,
+      "plays": 2,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "Alone Awake / En Natt Forbi (F7 Solo)",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 0,
+      "plays": 1,
+      "firstPlayed": 2025
+    },
+    {
+      "title": "I Natt Eg Drøymde",
+      "artist": "Jan Eggum",
+      "hrs": 0,
+      "minutes": 2.9,
+      "plays": 1,
+      "firstPlayed": 2025
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="no">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0e0d0b" />
+    <title>Eggum Quiz</title>
+    <meta name="description" content="The ultimate Jan Eggum quiz — albums, songs, chords, trivia, and your own listening stats." />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🎸%3C/text%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main id="app" class="app" aria-live="polite">
+      <header class="bar bar--top">
+        <div class="bar__left">
+          <span class="brand">EGGUM</span>
+          <span class="dot" aria-hidden="true"></span>
+          <span class="cat" id="catLabel"><i data-lucide="sparkles"></i><span>Quiz</span></span>
+        </div>
+        <div class="bar__right">
+          <span class="score" id="score" title="Correct / answered">
+            <i data-lucide="check"></i><span id="scoreText">0/0</span>
+          </span>
+          <button class="iconbtn" id="autoBtn" title="Auto-advance" aria-pressed="false">
+            <i data-lucide="play"></i>
+          </button>
+          <button class="iconbtn" id="aboutBtn" title="About" aria-label="About">
+            <i data-lucide="info"></i>
+          </button>
+        </div>
+      </header>
+
+      <section class="card" id="card">
+        <p class="qmeta" id="qmeta"><i data-lucide="music"></i><span>Question</span></p>
+        <h1 class="q" id="q">Loading…</h1>
+        <div class="opts" id="opts"></div>
+      </section>
+
+      <footer class="bar bar--bottom">
+        <div class="progress" id="progress"><span style="width:0%"></span></div>
+        <div class="row">
+          <button class="iconbtn ghost" id="skipBtn" title="Skip">
+            <i data-lucide="chevrons-right"></i><span>Skip</span>
+          </button>
+          <button class="iconbtn primary" id="nextBtn" title="Next" hidden>
+            <i data-lucide="arrow-right"></i><span>Next</span>
+          </button>
+          <button class="iconbtn ghost" id="resetBtn" title="Reset run">
+            <i data-lucide="rotate-ccw"></i>
+          </button>
+        </div>
+      </footer>
+    </main>
+
+    <dialog id="about" class="dialog">
+      <h2><i data-lucide="info"></i> Eggum Quiz</h2>
+      <p>A hyper-minimal trivia game about Jan Eggum — his songs, albums, chords, and your own listening stats from <code>notes/eggum.txt</code>.</p>
+      <ul>
+        <li><b>Auto-play</b> advances 1.6 s after each answer.</li>
+        <li><b>Manual</b> waits for the <kbd>→</kbd> button.</li>
+        <li>Keyboard: <kbd>1–4</kbd> answer · <kbd>↵</kbd> next · <kbd>S</kbd> skip · <kbd>A</kbd> auto.</li>
+      </ul>
+      <p class="credits">Photos via <a href="https://commons.wikimedia.org/wiki/Category:Jan_Eggum" target="_blank" rel="noopener">Wikimedia Commons</a> (CC BY-SA). Stats parsed from your local <code>notes/eggum.txt</code>.</p>
+      <form method="dialog"><button class="iconbtn primary"><i data-lucide="x"></i><span>Close</span></button></form>
+    </dialog>
+
+    <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "chords": [
+    {"title": "Heksedans", "key": "Em", "intro_chords": ["Em", "Emmaj7", "Em7", "Em6"], "progression_hint": "Descending E minor line cliche, jazz-folk feel"},
+    {"title": "Kor e alle helter hen", "key": "D", "intro_chords": ["D", "D/C#", "Bm", "Bm/A"], "progression_hint": "Descending bass walk-down in D major"},
+    {"title": "En natt forbi", "key": "G", "intro_chords": ["G", "F#m7", "B7", "Em7"], "progression_hint": "Jazzy G major with secondary dominants"},
+    {"title": "Mor, jeg vil tilbake", "key": "A", "intro_chords": ["Amaj7", "C#m7", "D", "Bm7"], "progression_hint": "Lush A major with maj7 voicings"},
+    {"title": "Indigo, Ta Meg Med", "key": "C", "intro_chords": ["C", "G/B", "Am", "Em/G"], "progression_hint": "Classic C major folk-pop ballad"},
+    {"title": "Du kjenner ikkje meg", "key": "C", "intro_chords": ["C", "Dm7", "C/E", "F"], "progression_hint": "Smooth C major with descending bass"},
+    {"title": "Redd", "key": "Gm", "intro_chords": ["Gm", "Bb", "Eb", "C#m"], "progression_hint": "Moody G minor with chromatic shift"},
+    {"title": "Jeg lover deg", "key": "A", "intro_chords": ["Dmaj7", "C#m7", "Dmaj7", "C#m7"], "progression_hint": "Jazz-tinged A major with maj7 colors"},
+    {"title": "Befri meg", "key": "E", "intro_chords": ["E/G#", "F#m", "E/G#", "F#m7"], "progression_hint": "Open E major with bass movement"},
+    {"title": "De skulle begrave en konge stor", "key": "D", "intro_chords": ["D", "Em", "A7", "D"], "progression_hint": "Folk-ballad in D, narrative storytelling style"},
+    {"title": "Alarmen går", "key": "F", "intro_chords": ["F", "Bb", "C", "Dm"], "progression_hint": "Driving F major rock-folk groove"},
+    {"title": "Ryktet forteller", "key": "A", "intro_chords": ["A", "Bm/A", "C#m/A", "Dadd9/A"], "progression_hint": "A pedal-tone climbing chords"},
+    {"title": "Lillebror Per", "key": "G", "intro_chords": ["G", "E7", "A7", "D7"], "progression_hint": "Folk waltz in G with circle-of-fifths motion"},
+    {"title": "Kjære halvbror", "key": "G", "intro_chords": ["G", "Gsus4", "G", "Gsus4"], "progression_hint": "Acoustic G major with sus4 color"},
+    {"title": "En annen", "key": "C", "intro_chords": ["C", "F", "C/E", "F"], "progression_hint": "Simple C major fingerpicked folk"},
+    {"title": "Fortjent", "key": "E", "intro_chords": ["Em6", "B/D#", "A/C#", "B"], "progression_hint": "E major with descending bass line"},
+    {"title": "Myrsnipa", "key": "G", "intro_chords": ["G", "C", "D", "Am"], "progression_hint": "Open G major folk progression"},
+    {"title": "Når du er langt herfra", "key": "D", "intro_chords": ["D", "F#m", "Bm", "Bm/A"], "progression_hint": "Capo 2, D shapes, descending bass"},
+    {"title": "Klister kafé", "key": "D", "intro_chords": ["D", "D7", "G", "D"], "progression_hint": "Capo 1, blues-tinged D major"},
+    {"title": "Sommeren nytes best om vinteren", "key": "B", "intro_chords": ["B", "Cm", "B/D#", "Eb"], "progression_hint": "B major with chromatic ascending bass"}
+  ]
+}

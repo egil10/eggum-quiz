@@ -1,0 +1,17 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/(styles.css|app.js)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=300, must-revalidate" }
+      ]
+    },
+    {
+      "source": "/data/(.*).json",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=300, must-revalidate" }
+      ]
+    }
+  ]
+}
