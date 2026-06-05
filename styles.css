@@ -13,6 +13,7 @@
   --radius-lg: 14px;
   --font: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
+  color-scheme: light;
 }
 
 * { box-sizing: border-box; }
@@ -26,11 +27,21 @@ html, body {
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
   overflow: hidden;
+  overscroll-behavior: none;
   letter-spacing: -0.005em;
 }
 
 button { font: inherit; color: inherit; }
+
+/* Interactive controls: no blue tap flash, no text selection, snappy taps. */
+.chip, .iconbtn, .opt {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: manipulation;
+}
 kbd {
   font: 600 0.8em ui-monospace, SFMono-Regular, Menlo, monospace;
   background: var(--bg); border: 1px solid var(--line);
@@ -82,6 +93,7 @@ kbd {
   transition: color 120ms, background 120ms, border-color 120ms;
 }
 .chip:hover { color: var(--fg); border-color: var(--accent); }
+.chip:active { transform: scale(0.96); }
 .chip.on { background: var(--fg); color: var(--bg); border-color: var(--fg); }
 
 /* ---------- buttons ---------- */
@@ -93,6 +105,7 @@ kbd {
   transition: color 120ms, border-color 120ms, background 120ms;
 }
 .iconbtn:hover { color: var(--fg); border-color: var(--accent); }
+.iconbtn:active { transform: scale(0.96); }
 .iconbtn i { width: 14px; height: 14px; }
 .iconbtn.primary { background: var(--fg); color: var(--bg); border-color: var(--fg); }
 .iconbtn.primary:hover { background: var(--accent); border-color: var(--accent); color: white; }
@@ -135,7 +148,10 @@ kbd {
   object-fit: cover;
   border-radius: 10px;
   border: 1px solid var(--line);
+  background: var(--line-soft);   /* placeholder tint while the photo loads */
+  animation: photo-in 320ms ease both;
 }
+@keyframes photo-in { from { opacity: 0; } to { opacity: 1; } }
 
 /* chord badges (when question previews a progression) */
 .chord-row {
@@ -176,6 +192,7 @@ kbd {
   font-size: 15px;
 }
 .opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:active:not(:disabled) { transform: scale(0.99); }
 .opt:disabled { cursor: default; }
 .opt .badge {
   width: 20px; height: 20px; flex: none;
@@ -188,6 +205,22 @@ kbd {
 .opt.correct .badge { background: var(--ok); color: white; border-color: var(--ok); }
 .opt.wrong { background: rgba(177, 90, 74, 0.07); border-color: var(--bad); }
 .opt.wrong .badge { background: var(--bad); color: white; border-color: var(--bad); }
+
+/* round result */
+.result {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 6px; text-align: center;
+}
+.result__score {
+  font-size: clamp(40px, 9vw, 64px);
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  color: var(--accent);
+}
+.result__pct { color: var(--mute); font-size: 14px; }
+.result__msg { color: var(--fg); font-size: 15px; margin-top: 2px; }
 
 /* progress */
 .progress {

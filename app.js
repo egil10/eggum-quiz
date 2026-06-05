@@ -563,7 +563,7 @@ function render(q) {
   const qEl = $("#q");
   let html = "";
   if (q.photo) {
-    html += `<img class="qphoto" alt="" src="${escapeHtml(q.photo)}" />`;
+    html += `<img class="qphoto" alt="" decoding="async" fetchpriority="high" src="${escapeHtml(q.photo)}" />`;
   }
   if (q.chordRow) {
     html += `<div class="chord-row">${q.chordRow
@@ -572,21 +572,30 @@ function render(q) {
   }
   html += `<span>${escapeHtml(q.q)}</span>`;
   qEl.innerHTML = html;
+  // Hide a broken photo gracefully rather than showing a torn-image glyph.
+  const img = qEl.querySelector(".qphoto");
+  if (img) img.addEventListener("error", () => { img.style.display = "none"; }, { once: true });
 
-  const opts = $("#opts");
-  opts.innerHTML = "";
-  q.options.forEach((o, idx) => {
-    const b = document.createElement("button");
-    b.className = "opt";
-    b.dataset.correct = o.correct ? "1" : "0";
-    b.dataset.idx = idx;
-    b.innerHTML = `<span class="badge">${idx + 1}</span><span>${escapeHtml(o.text)}</span>`;
-    b.addEventListener("click", () => onAnswer(b));
-    opts.appendChild(b);
-  });
+  // Build all option buttons in one string → one reflow. Clicks are handled
+  // by a single delegated listener bound once in bindUI().
+  $("#opts").innerHTML = q.options
+    .map(
+      (o, idx) =>
+        `<button class="opt" data-correct="${o.correct ? 1 : 0}" data-idx="${idx}">` +
+        `<span class="badge">${idx + 1}</span><span>${escapeHtml(o.text)}</span></button>`
+    )
+    .join("");
+
   $("#nextBtn").hidden = true;
   updateProgress();
   setIcons();
+  preloadNextPhoto();
+}
+// Warm the browser cache for the next question's photo so auto-play and
+// manual "Neste" feel instant instead of flashing a placeholder.
+function preloadNextPhoto() {
+  const next = state.queue[state.i + 1];
+  if (next?.photo) new Image().src = next.photo;
 }
 function updateProgress() {
   const pct = Math.min(100, Math.round((state.answered / state.total) * 100));
@@ -622,10 +631,23 @@ function advance() {
   if (!q || state.answered >= state.total) finish();
   else render(q);
 }
+function roundMessage(pct) {
+  if (pct === 100) return "Plettfritt — ekte Eggum-kjenner!";
+  if (pct >= 80) return "Sterkt spilt.";
+  if (pct >= 50) return "Godt jobba.";
+  if (pct > 0) return "På vei — prøv igjen.";
+  return "Ny runde venter.";
+}
 function finish() {
   state.current = null;
-  $("#q").textContent = `Ferdig — ${state.correct} av ${state.answered} rett.`;
+  const pct = state.answered ? Math.round((state.correct / state.answered) * 100) : 0;
   $("#qmeta").innerHTML = `<i data-lucide="check"></i><span>Runde fullført</span>`;
+  $("#q").innerHTML =
+    `<div class="result">` +
+    `<div class="result__score">${state.correct}/${state.answered}</div>` +
+    `<div class="result__pct">${pct}% rett</div>` +
+    `<div class="result__msg">${escapeHtml(roundMessage(pct))}</div>` +
+    `</div>`;
   const opts = $("#opts");
   opts.innerHTML = "";
   const b = document.createElement("button");
@@ -691,6 +713,13 @@ function renderCats() {
 
 // ---------- UI bindings ----------
 function bindUI() {
+  // Single delegated listener for the option grid (rebuilt every question).
+  $("#opts").addEventListener("click", (e) => {
+    const btn = e.target.closest(".opt");
+    if (!btn || btn.dataset.idx === undefined) return;
+    onAnswer(btn);
+  });
+
   $("#autoBtn").addEventListener("click", (e) => {
     state.auto = !state.auto;
     e.currentTarget.setAttribute("aria-pressed", state.auto ? "true" : "false");

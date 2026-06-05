@@ -31,6 +31,7 @@ Static site — Vercel zero-config works. Push to GitHub, then on
 
 ## Files
 
+- [`BLUEPRINT.md`](BLUEPRINT.md) — how it's built: layout, colours, fonts, data model, engine.
 - `index.html` · `styles.css` · `app.js` — the whole app.
 - `data/stats.json` — derived from your `notes/eggum.txt`.
 - `data/eggum.json` — bio, trivia, discography.
